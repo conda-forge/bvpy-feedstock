@@ -3,7 +3,7 @@ About bvpy
 
 Home: https://gitlab.inria.fr/mosaic/bvpy
 
-Package license: CECILL-C
+Package license: LGPL-3.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bvpy-feedstock/blob/master/LICENSE.txt)
 
