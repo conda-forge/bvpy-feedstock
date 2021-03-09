@@ -44,7 +44,7 @@ test:
 
 about:
   home: https://gitlab.inria.fr/mosaic/bvpy
-  license: CECILL-C
+  license: LGPL3
   license_file: LICENSE
   summary: Package providing tools to solve BVP (Boundary Value Problem) and IBVP (Initial Boundary Value Problem).
   dev_url: https://gitlab.inria.fr/mosaic/bvpy
