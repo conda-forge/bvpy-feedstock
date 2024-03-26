@@ -1,5 +1,5 @@
 {% set name = "bvpy" %}
-{% set version = "1.0.1" %}
+{% set version = "1.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://gitlab.inria.fr/mosaic/{{ name }}/-/archive/{{ version }}/{{ name }}-{{ version }}.tar.gz
-  sha256: e4d660f2e8880ace74109b9c805e1ee1f1c585f0a507943981ccd5229397a38c
+  sha256: 498df0592e2ba6ceef65e25d90de6f46ef28c646b4b969d0b0de192946dc3b9f
 
 build:
   skip: true  # [win or py<36]
